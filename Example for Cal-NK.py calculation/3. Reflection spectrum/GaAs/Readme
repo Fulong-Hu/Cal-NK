@@ -1,0 +1,5 @@
+# This data is come from the book of "半导体光谱分析与拟合计算"， which was published by "科学出版社"（www.sciencep.com）
+
+Please copy the Cal-NK.py into this folder and runing it, then you will obtained the result file.
+
+The input file is "Reflection spectrum.txt", you can replace this file by youself.
