@@ -36,13 +36,18 @@ Copy the Cal-NK.py to the target data directory.
 Install required Python libraries (NumPy, SciPy, Matplotlib, and OS).
 #### 2.	Run the Script
 Follow command-line prompts to select calculation mode (dielectric function/reflectance/transmission) and input parameters.
+
 ![QQ_1744975726320](https://github.com/user-attachments/assets/09c843df-a214-47e3-9e36-bbdae68d3141)
-results will output as following:
+
+Results will output as following:
+
 ![QQ_1744975871435](https://github.com/user-attachments/assets/54db3da1-2f91-4444-b7f1-7f8681ac94b3)
-![image](https://github.com/user-attachments/assets/f99c1e66-f5ad-4491-86e1-d1c4a1c9302a)
+
 #### 3.	Output Results
 Generates Result.txt containing refractive index (n) and extinction coefficient (k) values.
 Visualization (e.g., n/k vs. wavelength curves). Comparison Chart.jpeg
+
+![image](https://github.com/user-attachments/assets/f99c1e66-f5ad-4491-86e1-d1c4a1c9302a)
 
 ## 5. Citation Requirements
 If this script is used in publications, cite as:
