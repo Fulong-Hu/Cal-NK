@@ -1,0 +1,8 @@
+#WS2
+#Ref: Ermolaev et al. 2020 monolayer film; n,k 0.365–1.70 µm 
+#The inputfile is "Transmission spectrum *.txt", and the files form could be "*.dat" or others form.
+
+Thickness = 0.0008 μm
+n_set = 2.73     # this value is located at 1.70  µm
+
+Copy the Cal-NK.py script to this folder, then runing the script
