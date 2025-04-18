@@ -51,7 +51,7 @@ F. Hu, J. Qiao, X. Zhang, Y. Luo, Y. Pu, H. Hu, G. Shi, L. Li, J. Shang. Multifu
 ## 6. Notes
 1.	Data Validation: Experimentally verify critical parameters (e.g., reflectance thresholds) to ensure compliance with physical model assumptions.
 2.	Path Conventions: Avoid spaces or special characters in directory paths to prevent script errors.
-3.	Version Compatibility: Requires Python 3.7.2 or higher. Upgrade older environments if needed.
+3.	Version Compatibility: Requires Python 3.7.4 or higher. Upgrade older environments if needed.
 
 Technical Support: Contact 1500148414@qq.com for assistance.
 
