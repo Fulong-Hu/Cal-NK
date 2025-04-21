@@ -51,7 +51,7 @@ Visualization (e.g., n/k vs. wavelength curves). Comparison Chart.jpeg
 
 ## 5. Citation Requirements
 If this script is used in publications, cite as:
-F. Hu, J. Qiao, X. Zhang, Y. Luo, Y. Pu, H. Hu, G. Shi, L. Li, J. Shang. Multifunctional calculator for the optical constants of refractive index and extinction coefficient
+F. Hu, J. Qiao, X. Zhang, Y. Luo, Y. Pu, H. Hu, G. Shi, L. Li, J. Shang. Multifunctional calculator for determining the refractive index and extinction coefficients of semiconductor films
 
 ## 6. Notes
 1.	Data Validation: Experimentally verify critical parameters (e.g., reflectance thresholds) to ensure compliance with physical model assumptions.
